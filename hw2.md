@@ -213,3 +213,11 @@ Using the definition of
 ```math
 b_n
 ```
+
+```math
+b_n
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+(x+\pi)\sin(nx)\,dx
+```
