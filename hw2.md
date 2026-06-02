@@ -186,3 +186,14 @@ x\cos(nx)\,dx
 ```
 
 Also,
+
+```math
+\int_{-\pi}^{\pi}
+\cos(nx)\,dx
+=
+\left[
+\frac{\sin(nx)}{n}
+\right]_{-\pi}^{\pi}
+=
+0
+```
