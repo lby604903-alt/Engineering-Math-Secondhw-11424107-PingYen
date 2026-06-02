@@ -365,3 +365,4 @@ b_n
 \right)
 ```
 
+which simplifies to
