@@ -24,3 +24,5 @@ defined on the interval
 ```math
 [-\pi,\pi]
 ```
+
+the Fourier series is
