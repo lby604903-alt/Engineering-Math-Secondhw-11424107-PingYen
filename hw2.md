@@ -337,3 +337,6 @@ Using
 ```math
 \cos(n\pi)=(-1)^n
 ```
+
+gives
+
