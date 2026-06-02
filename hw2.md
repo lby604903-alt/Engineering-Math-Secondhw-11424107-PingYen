@@ -11,7 +11,7 @@ f(x)=x+\pi
 ```
 
 ---
-## Step 1: Problem Setup and Given Function
+## Step 1: Fourier Series Formula
 
 The given function is
 
