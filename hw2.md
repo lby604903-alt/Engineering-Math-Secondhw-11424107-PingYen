@@ -20,3 +20,7 @@ f(x)=x+\pi
 ```
 
 defined on the interval
+
+```math
+[-\pi,\pi]
+```
