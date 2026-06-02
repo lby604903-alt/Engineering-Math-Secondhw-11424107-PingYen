@@ -167,3 +167,8 @@ is odd and
 ```
 
 is even,
+
+```math
+x\cos(nx)
+```
+
