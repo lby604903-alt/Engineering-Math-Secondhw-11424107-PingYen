@@ -212,4 +212,4 @@ Using the definition of
 
 ```math
 b_n
-``
+```
