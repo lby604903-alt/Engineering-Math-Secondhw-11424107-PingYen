@@ -68,3 +68,11 @@ f(x)\,dx
 ---
 
 ## Step 2:Computation of the Constant Coefficient (a₀)
+
+```math
+a_0
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+(x+\pi)\,dx
+```
