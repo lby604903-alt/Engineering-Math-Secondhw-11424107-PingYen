@@ -8,3 +8,7 @@ I started uploading the files for the second assignment.
 ---
 
 I completed the first question -- Laplace Transformation (2) . In hw1.
+
+---
+
+I completed the second question -- Fourier series (7) . In hw2.
