@@ -293,3 +293,5 @@ du=dx
 ```math
 v=-\frac{\cos(nx)}{n}
 ```
+
+Applying integration by parts:
