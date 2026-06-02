@@ -44,4 +44,15 @@ sX(s)-x(0)
 =
 s^2X(s)-sx(0)-x'(0)
 ```
+Substitute the initial conditions
+
+```math
+x(0)=0
+```
+
+```math
+x'(0)=1
+```
+
+Then
 
