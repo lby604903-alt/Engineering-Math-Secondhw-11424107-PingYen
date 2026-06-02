@@ -283,3 +283,10 @@ x(0)
 Check $x'(0)$:
 
 Differentiate
+```math
+x'(t)
+=
+-\frac15e^{-t/2}
++
+\frac65e^{-3t}
+```
