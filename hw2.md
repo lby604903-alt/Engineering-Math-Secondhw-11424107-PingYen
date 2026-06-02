@@ -353,3 +353,5 @@ Substituting into the formula for
 ```math
 b_n
 ```
+
+gives
