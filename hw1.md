@@ -24,3 +24,9 @@ x'(0)=1
 
 ---
 # Step 1: Transform the Equation into the s-Domain
+
+Let
+
+```math
+X(s)=\mathcal{L}\{x(t)\}
+```
