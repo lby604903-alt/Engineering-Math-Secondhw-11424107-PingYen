@@ -349,3 +349,7 @@ x\sin(nx)\,dx
 
 Substituting into the formula for
 
+
+```math
+b_n
+```
