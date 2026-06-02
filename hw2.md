@@ -165,3 +165,5 @@ is odd and
 ```math
 \cos(nx)
 ```
+
+is even,
