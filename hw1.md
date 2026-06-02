@@ -99,3 +99,12 @@ Expand:
 ```
 
 Factor out $X(s)$:
+
+```math
+X(s)
+\left(
+2s^2+7s+3
+\right)
+=
+2
+```
