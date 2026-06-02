@@ -290,3 +290,6 @@ x'(t)
 +
 \frac65e^{-3t}
 ```
+
+Substitute $t=0$:
+
