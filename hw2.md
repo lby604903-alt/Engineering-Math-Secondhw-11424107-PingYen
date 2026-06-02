@@ -125,3 +125,7 @@ thus
 ## Step 3:Determination of Cosine Coefficients (aₙ)
 
 Using the definition of
+
+```math
+a_n
+```
