@@ -340,3 +340,9 @@ Using
 
 gives
 
+```math
+\int_{0}^{\pi}
+x\sin(nx)\,dx
+=
+-\frac{\pi(-1)^n}{n}
+```
