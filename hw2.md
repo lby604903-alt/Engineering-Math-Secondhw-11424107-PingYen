@@ -378,3 +378,7 @@ b_n
 ## Step 7: Construct the Fourier Series
 
 The Fourier coefficients are
+
+```math
+a_0=2\pi
+```
