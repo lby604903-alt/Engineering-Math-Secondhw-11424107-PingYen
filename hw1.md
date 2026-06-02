@@ -68,3 +68,6 @@ s^2X(s)-1
 =
 sX(s)
 ```
+
+Substituting into the differential equation gives
+
