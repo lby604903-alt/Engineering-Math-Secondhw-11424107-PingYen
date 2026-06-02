@@ -283,3 +283,5 @@ and
 ```math
 dv=\sin(nx)\,dx
 ```
+
+Then
