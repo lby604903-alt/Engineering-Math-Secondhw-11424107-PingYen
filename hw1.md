@@ -140,3 +140,12 @@ X(s)
 # Step 3: Simplify Using Partial Fractions
 
 Assume
+
+```math
+\frac{2}
+{(2s+1)(s+3)}
+=
+\frac{A}{2s+1}
++
+\frac{B}{s+3}
+```
