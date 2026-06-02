@@ -254,3 +254,14 @@ x(t)
 ```
 
 Factor out $\frac25$:
+
+```math
+x(t)
+=
+\frac25
+\left(
+e^{-t/2}
+-
+e^{-3t}
+\right)
+```
