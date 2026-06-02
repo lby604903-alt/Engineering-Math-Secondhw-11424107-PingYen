@@ -128,3 +128,9 @@ Factor the denominator:
 
 Hence
 
+```math
+X(s)
+=
+\frac{2}
+{(2s+1)(s+3)}
+```
