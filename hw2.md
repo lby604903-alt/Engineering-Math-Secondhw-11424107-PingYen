@@ -122,4 +122,4 @@ thus
 ```
 
 ---
-## Determination of Cosine Coefficients (aₙ)
+## Step 3:Determination of Cosine Coefficients (aₙ)
