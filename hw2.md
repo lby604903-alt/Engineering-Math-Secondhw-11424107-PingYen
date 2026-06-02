@@ -355,3 +355,13 @@ b_n
 ```
 
 gives
+
+```math
+b_n
+=
+\frac{2}{\pi}
+\left(
+-\frac{\pi(-1)^n}{n}
+\right)
+```
+
