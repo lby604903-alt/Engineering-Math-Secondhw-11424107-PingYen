@@ -177,3 +177,10 @@ is an odd function.
 
 
 Therefore,
+
+```math
+\int_{-\pi}^{\pi}
+x\cos(nx)\,dx
+=
+0
+```
