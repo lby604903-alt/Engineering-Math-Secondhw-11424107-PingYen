@@ -161,3 +161,7 @@ x
 ```
 
 is odd and
+
+```math
+\cos(nx)
+```
