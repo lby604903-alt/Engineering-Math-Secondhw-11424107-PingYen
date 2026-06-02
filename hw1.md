@@ -217,3 +217,13 @@ X(s)
 ```
 
 Rewrite as
+
+```math
+X(s)
+=
+\frac25
+\frac1{s+\frac12}
+-
+\frac25
+\frac1{s+3}
+```
