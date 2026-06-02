@@ -307,3 +307,5 @@ x\sin(nx)\,dx
 \int_{0}^{\pi}
 \cos(nx)\,dx
 ```
+
+The remaining integral is
