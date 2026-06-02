@@ -155,3 +155,7 @@ x\cos(nx)\,dx
 ```
 
 Because
+
+```math
+x
+```
