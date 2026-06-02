@@ -279,3 +279,7 @@ u=x
 ```
 
 and
+
+```math
+dv=\sin(nx)\,dx
+```
