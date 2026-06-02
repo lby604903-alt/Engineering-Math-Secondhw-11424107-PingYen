@@ -257,3 +257,5 @@ and
 ```
 
 
+are odd functions, their product is even:
+
