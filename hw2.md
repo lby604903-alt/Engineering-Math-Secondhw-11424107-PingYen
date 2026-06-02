@@ -206,7 +206,7 @@ a_n=0
 
 ---
 
-## Step 4: Determine the Sine Coefficients
+## Step 4: Set Up the Sine Coefficient Formula
 
 Using the definition of
 
