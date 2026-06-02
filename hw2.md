@@ -1,4 +1,4 @@
-# 11424107: Laplace Transformation (2)
+# 11424107: Transverse leaf series (7)
 
 Condition:
 
