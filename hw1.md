@@ -30,3 +30,5 @@ Let
 ```math
 X(s)=\mathcal{L}\{x(t)\}
 ```
+
+Using the Laplace transform formulas
