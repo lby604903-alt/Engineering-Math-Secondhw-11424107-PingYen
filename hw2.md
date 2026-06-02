@@ -129,3 +129,11 @@ Using the definition of
 ```math
 a_n
 ```
+
+```math
+a_n
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+(x+\pi)\cos(nx)\,dx
+```
