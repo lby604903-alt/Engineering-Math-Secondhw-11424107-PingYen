@@ -327,3 +327,5 @@ x\sin(nx)\,dx
 =
 -\frac{\pi\cos(n\pi)}{n}
 ```
+
+---
