@@ -320,3 +320,10 @@ The remaining integral is
 ```
 
 Therefore,
+
+```math
+\int_{0}^{\pi}
+x\sin(nx)\,dx
+=
+-\frac{\pi\cos(n\pi)}{n}
+```
