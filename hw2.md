@@ -11,3 +11,4 @@ f(x)=x+\pi
 ```
 
 ---
+## Step 1: Problem Setup and Given Function
