@@ -408,3 +408,16 @@ f(x)
 ---
 
 ## Final Result
+
+```math
+f(x)
+=
+x+\pi
+=
+\pi
++
+2
+\sum_{n=1}^{\infty}
+\frac{(-1)^{n+1}}{n}
+\sin(nx)
+```
