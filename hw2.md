@@ -1,4 +1,4 @@
-# 11424107: Transverse leaf series (7)
+# 11424107: Fourier series (7)
 
 Condition:
 
