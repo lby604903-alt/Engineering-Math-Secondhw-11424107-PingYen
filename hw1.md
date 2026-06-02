@@ -199,3 +199,5 @@ Substitute into the second equation:
 ```math
 B=-\frac{2}{5}
 ```
+
+Thus
