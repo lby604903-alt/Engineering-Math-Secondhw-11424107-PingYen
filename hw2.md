@@ -392,3 +392,5 @@ b_n
 =
 \frac{2(-1)^{n+1}}{n}
 ```
+
+Substituting these coefficients into the Fourier series formula:
