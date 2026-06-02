@@ -366,3 +366,9 @@ b_n
 ```
 
 which simplifies to
+
+```math
+b_n
+=
+\frac{2(-1)^{n+1}}{n}
+```
