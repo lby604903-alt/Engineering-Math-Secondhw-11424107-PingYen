@@ -295,3 +295,15 @@ v=-\frac{\cos(nx)}{n}
 ```
 
 Applying integration by parts:
+
+```math
+\int_{0}^{\pi}
+x\sin(nx)\,dx
+=
+-\frac{x\cos(nx)}{n}
+\Bigg|_{0}^{\pi}
++
+\frac{1}{n}
+\int_{0}^{\pi}
+\cos(nx)\,dx
+```
