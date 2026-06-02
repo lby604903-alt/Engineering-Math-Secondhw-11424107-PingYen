@@ -57,5 +57,13 @@ b_n
 \int_{-\pi}^{\pi}
 f(x)\sin(nx)\,dx
 ```
+
+```math
+a_0
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+f(x)\,dx
+```
 ---
 
