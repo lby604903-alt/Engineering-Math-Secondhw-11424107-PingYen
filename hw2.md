@@ -139,3 +139,17 @@ a_n
 ```
 
 Split the integral:
+
+```math
+a_n
+=
+\frac{1}{\pi}
+\left[
+\int_{-\pi}^{\pi}
+x\cos(nx)\,dx
++
+\pi
+\int_{-\pi}^{\pi}
+\cos(nx)\,dx
+\right]
+```
