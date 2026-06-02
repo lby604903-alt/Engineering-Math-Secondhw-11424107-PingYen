@@ -271,3 +271,11 @@ e^{-3t}
 # Step 5: Confirm the Initial Conditions
 
 Check $x(0)$:
+
+```math
+x(0)
+=
+\frac25(1-1)
+=
+0
+```
