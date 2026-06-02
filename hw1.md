@@ -281,3 +281,5 @@ x(0)
 ```
 
 Check $x'(0)$:
+
+Differentiate
