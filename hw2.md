@@ -78,3 +78,14 @@ a_0
 ```
 
 Split the integral:
+
+```math
+a_0
+=
+\frac{1}{\pi}
+\left(
+\int_{-\pi}^{\pi}x\,dx
++
+\int_{-\pi}^{\pi}\pi\,dx
+\right)
+```
