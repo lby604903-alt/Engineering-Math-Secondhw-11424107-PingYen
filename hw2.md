@@ -221,3 +221,5 @@ b_n
 \int_{-\pi}^{\pi}
 (x+\pi)\sin(nx)\,dx
 ```
+
+The constant term contributes nothing because
