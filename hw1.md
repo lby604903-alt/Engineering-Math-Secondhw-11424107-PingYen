@@ -195,3 +195,7 @@ Substitute into the second equation:
 ```math
 -5B=2
 ```
+
+```math
+B=-\frac{2}{5}
+```
