@@ -125,3 +125,6 @@ Factor the denominator:
 =
 (2s+1)(s+3)
 ```
+
+Hence
+
