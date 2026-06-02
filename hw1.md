@@ -97,3 +97,5 @@ Expand:
 =
 0
 ```
+
+Factor out $X(s)$:
