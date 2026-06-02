@@ -83,3 +83,17 @@ Substituting into the differential equation gives
 ---
 
 # Step 2: Determine the Expression for X(s)
+
+Expand:
+
+```math
+2s^2X(s)
+-
+2
++
+7sX(s)
++
+3X(s)
+=
+0
+```
