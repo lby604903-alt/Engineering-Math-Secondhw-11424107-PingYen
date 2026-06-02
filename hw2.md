@@ -244,3 +244,8 @@ x\sin(nx)\,dx
 
 
 Since both
+
+```math
+x
+```
+
