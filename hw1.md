@@ -305,3 +305,15 @@ x'(0)
 ---
 
 # Final Result
+```math
+\boxed{
+x(t)
+=
+\frac25
+\left(
+e^{-t/2}
+-
+e^{-3t}
+\right)
+}
+```
