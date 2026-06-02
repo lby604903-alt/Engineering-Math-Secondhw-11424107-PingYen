@@ -149,3 +149,6 @@ Assume
 +
 \frac{B}{s+3}
 ```
+
+Multiply both sides by $(2s+1)(s+3)$:
+
