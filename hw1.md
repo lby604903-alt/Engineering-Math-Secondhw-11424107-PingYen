@@ -208,3 +208,10 @@ A=\frac{4}{5}
 
 Therefore
 
+```math
+X(s)
+=
+\frac{\frac45}{2s+1}
+-
+\frac{\frac25}{s+3}
+```
