@@ -62,3 +62,9 @@ Then
 =
 s^2X(s)-1
 ```
+
+```math
+\mathcal{L}\{x'(t)\}
+=
+sX(s)
+```
