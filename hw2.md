@@ -285,3 +285,8 @@ dv=\sin(nx)\,dx
 ```
 
 Then
+
+```math
+du=dx
+```
+
