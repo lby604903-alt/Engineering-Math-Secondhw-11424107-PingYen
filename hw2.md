@@ -67,3 +67,4 @@ f(x)\,dx
 ```
 ---
 
+## Step 2:Computation of the Constant Coefficient (a₀)
