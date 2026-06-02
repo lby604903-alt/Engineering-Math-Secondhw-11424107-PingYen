@@ -18,3 +18,5 @@ The given function is
 ```math
 f(x)=x+\pi
 ```
+
+defined on the interval
