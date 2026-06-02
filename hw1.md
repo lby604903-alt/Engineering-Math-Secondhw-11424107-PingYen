@@ -265,3 +265,7 @@ e^{-t/2}
 e^{-3t}
 \right)
 ```
+
+---
+
+# Step 5: Confirm the Initial Conditions
