@@ -244,3 +244,11 @@ e^{-at}
 ```
 
 we obtain
+
+```math
+x(t)
+=
+\frac25e^{-t/2}
+-
+\frac25e^{-3t}
+```
