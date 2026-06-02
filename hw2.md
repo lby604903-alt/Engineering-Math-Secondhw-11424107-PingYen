@@ -5,6 +5,7 @@ Condition:
 ```math
 f(x)=x+\pi
 ```
+
 ```math
-qquad -\pi \le x \le \pi
+\qquad -\pi \le x \le \pi
 ```
