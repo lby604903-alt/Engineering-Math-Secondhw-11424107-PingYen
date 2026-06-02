@@ -333,3 +333,7 @@ x\sin(nx)\,dx
 ## Step 6: Simplify the Expression for bₙ
 
 Using
+
+```math
+\cos(n\pi)=(-1)^n
+```
