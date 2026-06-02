@@ -136,3 +136,5 @@ X(s)
 ```
 
 ---
+
+# Step 3: Simplify Using Partial Fractions
