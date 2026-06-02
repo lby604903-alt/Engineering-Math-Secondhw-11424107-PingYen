@@ -122,3 +122,4 @@ thus
 ```
 
 ---
+## Determination of Cosine Coefficients (aₙ)
