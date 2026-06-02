@@ -198,16 +198,9 @@ Also,
 0
 ```
 
-```math
-\int_{-\pi}^{\pi}
-\cos(nx)\,dx
-=
-\left[
-\frac{\sin(nx)}{n}
-\right]_{-\pi}^{\pi}
-=
-0
-```
-
 Thus,
+
+```math
+a_n=0
+```
 
