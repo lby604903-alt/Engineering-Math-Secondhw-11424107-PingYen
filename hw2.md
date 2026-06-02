@@ -40,6 +40,7 @@ b_n\sin(nx)
 \right)
 ```
 
+The coefficients are defined as:
 
 ```math
 a_n
