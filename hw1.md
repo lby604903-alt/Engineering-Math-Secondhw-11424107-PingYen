@@ -269,3 +269,5 @@ e^{-3t}
 ---
 
 # Step 5: Confirm the Initial Conditions
+
+Check $x(0)$:
