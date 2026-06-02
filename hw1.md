@@ -21,3 +21,4 @@ x(0)=0
 ```math
 x'(0)=1
 ```
+# Step 1: Transform the Equation into the s-Domain
