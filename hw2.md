@@ -26,3 +26,16 @@ defined on the interval
 ```
 
 the Fourier series is
+
+```math
+f(x)
+=
+\frac{a_0}{2}
++
+\sum_{n=1}^{\infty}
+\left(
+a_n\cos(nx)
++
+b_n\sin(nx)
+\right)
+```
