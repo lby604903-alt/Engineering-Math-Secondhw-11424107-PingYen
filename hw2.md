@@ -376,3 +376,5 @@ b_n
 ---
 
 ## Step 7: Construct the Fourier Series
+
+The Fourier coefficients are
