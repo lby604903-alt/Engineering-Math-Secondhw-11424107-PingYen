@@ -233,3 +233,12 @@ X(s)
 # Step 4: Recover the Solution in the Time Domain
 
 Using
+
+```math
+\mathcal{L}^{-1}
+\left\{
+\frac1{s+a}
+\right\}
+=
+e^{-at}
+```
