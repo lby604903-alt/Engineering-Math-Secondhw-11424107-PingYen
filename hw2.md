@@ -48,5 +48,13 @@ a_n
 \int_{-\pi}^{\pi}
 f(x)\cos(nx)\,dx
 ```
+
+```math
+b_n
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+f(x)\sin(nx)\,dx
+```
 ---
 
