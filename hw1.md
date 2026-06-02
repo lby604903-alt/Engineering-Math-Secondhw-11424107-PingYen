@@ -187,3 +187,7 @@ A=-2B
 ```
 
 Substitute into the second equation:
+
+```math
+3(-2B)+B=2
+```
