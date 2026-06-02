@@ -394,3 +394,13 @@ b_n
 ```
 
 Substituting these coefficients into the Fourier series formula:
+
+```math
+f(x)
+=
+\pi
++
+\sum_{n=1}^{\infty}
+\frac{2(-1)^{n+1}}{n}
+\sin(nx)
+```
