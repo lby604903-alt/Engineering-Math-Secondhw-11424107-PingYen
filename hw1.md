@@ -293,3 +293,12 @@ x'(t)
 
 Substitute $t=0$:
 
+```math
+x'(0)
+=
+-\frac15
++
+\frac65
+=
+1
+```
