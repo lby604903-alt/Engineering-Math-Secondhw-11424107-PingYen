@@ -80,3 +80,6 @@ Substituting into the differential equation gives
 =
 0
 ```
+---
+
+# Step 2: Determine the Expression for X(s)
