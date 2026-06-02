@@ -172,3 +172,6 @@ is even,
 x\cos(nx)
 ```
 
+is an odd function.
+
+
