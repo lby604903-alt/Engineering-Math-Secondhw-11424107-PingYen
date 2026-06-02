@@ -259,3 +259,12 @@ and
 
 are odd functions, their product is even:
 
+
+```math
+b_n
+=
+\frac{2}{\pi}
+\int_{0}^{\pi}
+x\sin(nx)\,dx
+```
+
