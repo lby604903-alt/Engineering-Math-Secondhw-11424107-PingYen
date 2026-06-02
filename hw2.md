@@ -346,3 +346,6 @@ x\sin(nx)\,dx
 =
 -\frac{\pi(-1)^n}{n}
 ```
+
+Substituting into the formula for
+
