@@ -17,3 +17,7 @@ with the initial conditions
 ```math
 x(0)=0
 ```
+
+```math
+x'(0)=1
+```
