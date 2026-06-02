@@ -242,3 +242,5 @@ b_n
 x\sin(nx)\,dx
 ```
 
+
+Since both
