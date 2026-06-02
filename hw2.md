@@ -91,3 +91,7 @@ a_0
 ```
 
 Since
+
+```math
+\int_{-\pi}^{\pi}x\,dx=0
+```
