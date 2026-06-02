@@ -38,3 +38,10 @@ Using the Laplace transform formulas
 =
 sX(s)-x(0)
 ```
+
+```math
+\mathcal{L}\{x''(t)\}
+=
+s^2X(s)-sx(0)-x'(0)
+```
+
