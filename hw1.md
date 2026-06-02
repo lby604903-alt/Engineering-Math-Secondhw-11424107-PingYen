@@ -71,3 +71,12 @@ sX(s)
 
 Substituting into the differential equation gives
 
+```math
+2(s^2X(s)-1)
++
+7sX(s)
++
+3X(s)
+=
+0
+```
