@@ -56,3 +56,9 @@ x'(0)=1
 
 Then
 
+
+```math
+\mathcal{L}\{x''(t)\}
+=
+s^2X(s)-1
+```
