@@ -39,3 +39,14 @@ a_n\cos(nx)
 b_n\sin(nx)
 \right)
 ```
+
+
+```math
+a_n
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+f(x)\cos(nx)\,dx
+```
+---
+
