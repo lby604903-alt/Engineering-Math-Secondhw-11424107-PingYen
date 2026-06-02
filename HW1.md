@@ -1,7 +1,5 @@
 # 11424107: Laplace Transformation (2)
 
-## Problem
-
 Solve the differential equation
 
 ```math
