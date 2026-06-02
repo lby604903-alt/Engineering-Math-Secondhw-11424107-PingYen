@@ -32,3 +32,9 @@ X(s)=\mathcal{L}\{x(t)\}
 ```
 
 Using the Laplace transform formulas
+
+```math
+\mathcal{L}\{x'(t)\}
+=
+sX(s)-x(0)
+```
