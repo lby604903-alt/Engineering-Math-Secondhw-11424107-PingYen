@@ -117,3 +117,11 @@ X(s)
 \frac{2}
 {2s^2+7s+3}
 ```
+
+Factor the denominator:
+
+```math
+2s^2+7s+3
+=
+(2s+1)(s+3)
+```
