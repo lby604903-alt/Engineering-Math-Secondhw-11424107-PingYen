@@ -191,3 +191,7 @@ Substitute into the second equation:
 ```math
 3(-2B)+B=2
 ```
+
+```math
+-5B=2
+```
