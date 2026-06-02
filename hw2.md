@@ -382,3 +382,8 @@ The Fourier coefficients are
 ```math
 a_0=2\pi
 ```
+
+```math
+a_n=0
+```
+
