@@ -11,3 +11,9 @@ Solve the differential equation
 =
 0
 ```
+
+with the initial conditions
+
+```math
+x(0)=0
+```
