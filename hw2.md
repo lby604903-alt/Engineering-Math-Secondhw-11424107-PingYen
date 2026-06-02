@@ -329,3 +329,5 @@ x\sin(nx)\,dx
 ```
 
 ---
+
+## Step 6: Simplify the Expression for bₙ
