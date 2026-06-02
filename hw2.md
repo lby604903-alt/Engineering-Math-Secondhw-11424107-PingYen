@@ -309,3 +309,13 @@ x\sin(nx)\,dx
 ```
 
 The remaining integral is
+
+```math
+\int_{0}^{\pi}
+\cos(nx)\,dx
+=
+\frac{\sin(n\pi)}{n}
+=
+0
+```
+
