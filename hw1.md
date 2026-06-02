@@ -231,3 +231,5 @@ X(s)
 ---
 
 # Step 4: Recover the Solution in the Time Domain
+
+Using
