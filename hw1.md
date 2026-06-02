@@ -215,3 +215,5 @@ X(s)
 -
 \frac{\frac25}{s+3}
 ```
+
+Rewrite as
