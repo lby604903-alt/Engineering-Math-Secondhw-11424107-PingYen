@@ -76,3 +76,5 @@ a_0
 \int_{-\pi}^{\pi}
 (x+\pi)\,dx
 ```
+
+Split the integral:
