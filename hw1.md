@@ -252,3 +252,5 @@ x(t)
 -
 \frac25e^{-3t}
 ```
+
+Factor out $\frac25$:
