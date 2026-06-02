@@ -169,3 +169,5 @@ Expand:
 +
 (3A+B)
 ```
+
+Compare coefficients:
