@@ -271,3 +271,5 @@ x\sin(nx)\,dx
 ---
 
 ## Step 5: Apply Integration by Parts
+
+Let
