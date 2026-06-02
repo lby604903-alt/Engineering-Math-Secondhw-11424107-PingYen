@@ -137,3 +137,5 @@ a_n
 \int_{-\pi}^{\pi}
 (x+\pi)\cos(nx)\,dx
 ```
+
+Split the integral:
