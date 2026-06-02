@@ -209,3 +209,7 @@ a_n=0
 ## Step 4: Determine the Sine Coefficients
 
 Using the definition of
+
+```math
+b_n
+``
