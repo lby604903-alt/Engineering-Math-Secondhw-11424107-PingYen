@@ -98,3 +98,10 @@ Since
 
 
 and
+
+
+```math
+\int_{-\pi}^{\pi}\pi\,dx
+=
+2\pi^2
+```
