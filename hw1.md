@@ -242,3 +242,5 @@ Using
 =
 e^{-at}
 ```
+
+we obtain
