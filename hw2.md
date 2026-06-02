@@ -231,3 +231,6 @@ The constant term contributes nothing because
 0
 ```
 
+Therefore,
+
+
