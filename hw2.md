@@ -234,3 +234,11 @@ The constant term contributes nothing because
 Therefore,
 
 
+```math
+b_n
+=
+\frac{1}{\pi}
+\int_{-\pi}^{\pi}
+x\sin(nx)\,dx
+```
+
