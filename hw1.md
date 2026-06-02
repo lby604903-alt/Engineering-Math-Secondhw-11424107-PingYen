@@ -185,3 +185,5 @@ From
 ```math
 A=-2B
 ```
+
+Substitute into the second equation:
