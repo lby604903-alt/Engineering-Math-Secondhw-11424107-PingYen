@@ -223,3 +223,11 @@ b_n
 ```
 
 The constant term contributes nothing because
+
+```math
+\int_{-\pi}^{\pi}
+\sin(nx)\,dx
+=
+0
+```
+
