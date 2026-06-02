@@ -290,3 +290,6 @@ Then
 du=dx
 ```
 
+```math
+v=-\frac{\cos(nx)}{n}
+```
